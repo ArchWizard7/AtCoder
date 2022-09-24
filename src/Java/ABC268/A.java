@@ -1,4 +1,4 @@
-package Java.ABC267;
+package Java.ABC268;
 
 import java.util.HashSet;
 import java.util.Scanner;
